@@ -26,6 +26,10 @@
 
                     <h3><i class="fa-solid fa-gear me-1"></i> Error 404!</h3>
 
+                    <div>
+                                <a href="?menu=ekskul&page=read" class="btn btn-dark"><i class="fa-solid fa-left-long me-1"></i> Kembali</a>
+                            </div>
+
                 </div>
 
                 <div class="card-body">
